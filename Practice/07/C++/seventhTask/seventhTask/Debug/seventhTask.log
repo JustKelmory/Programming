@@ -1,0 +1,6 @@
+﻿  seventhTask.cpp
+C:\Users\Kelmory\source\repos\seventhTask\seventhTask\seventhTask.cpp(22,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kelmory\source\repos\seventhTask\seventhTask\seventhTask.cpp(23,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kelmory\source\repos\seventhTask\seventhTask\seventhTask.cpp(24,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kelmory\source\repos\seventhTask\seventhTask\seventhTask.cpp(28,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  seventhTask.vcxproj -> C:\Users\Kelmory\source\repos\seventhTask\Debug\seventhTask.exe
