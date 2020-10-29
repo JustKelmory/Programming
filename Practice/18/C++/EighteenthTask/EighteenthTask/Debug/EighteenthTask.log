@@ -1,0 +1,5 @@
+﻿  EighteenthTask.cpp
+C:\Users\Kelmory\source\repos\EighteenthTask\EighteenthTask\EighteenthTask.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kelmory\source\repos\EighteenthTask\EighteenthTask\EighteenthTask.cpp(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kelmory\source\repos\EighteenthTask\EighteenthTask\EighteenthTask.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+  EighteenthTask.vcxproj -> C:\Users\Kelmory\source\repos\EighteenthTask\Debug\EighteenthTask.exe

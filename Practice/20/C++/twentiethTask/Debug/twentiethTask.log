@@ -1,0 +1,4 @@
+﻿  twentiethTask.cpp
+C:\Users\Kelmory\source\repos\twentiethTask\twentiethTask\twentiethTask.cpp(20,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kelmory\source\repos\twentiethTask\twentiethTask\twentiethTask.cpp(27,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  twentiethTask.vcxproj -> C:\Users\Kelmory\source\repos\twentiethTask\Debug\twentiethTask.exe
