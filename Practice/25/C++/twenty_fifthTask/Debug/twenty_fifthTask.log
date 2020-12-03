@@ -1,0 +1,6 @@
+﻿  twenty_fifthTask.cpp
+C:\Users\Kelmory\source\repos\twenty_fifthTask\twenty_fifthTask\twenty_fifthTask.cpp(13,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kelmory\source\repos\twenty_fifthTask\twenty_fifthTask\twenty_fifthTask.cpp(9,6): warning C4101: first: неиспользованная локальная переменная
+C:\Users\Kelmory\source\repos\twenty_fifthTask\twenty_fifthTask\twenty_fifthTask.cpp(11,7): warning C4101: pass: неиспользованная локальная переменная
+C:\Users\Kelmory\source\repos\twenty_fifthTask\twenty_fifthTask\twenty_fifthTask.cpp(10,6): warning C4101: second: неиспользованная локальная переменная
+  twenty_fifthTask.vcxproj -> C:\Users\Kelmory\source\repos\twenty_fifthTask\Debug\twenty_fifthTask.exe
