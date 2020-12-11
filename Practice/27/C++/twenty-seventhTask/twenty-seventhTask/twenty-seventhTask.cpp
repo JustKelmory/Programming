@@ -1,26 +1,54 @@
-﻿#include <iostream>
-#include <vector>
+﻿#include<iostream>
+#include<vector>
+#include<locale>
 #include <algorithm>
 using namespace std;
-int main() {
-    int n, a;
-    cin >> n;
-    vector<int> mass;
-    for (int i = 0; i < n; i++) {
-        cin >> a;
-        mass.push_back(a);
-    }
-    for (int i = 0; i < n; i++) {
-        for (int j = 1; j < (n - i); j++) {
-            if (mass[j] % 10 > mass[j - 1] % 10) {
-                swap(mass[j - 1], mass[j]);
-            }
-            else if (mass[j] % 10 == mass[j - 1] % 10 and mass[j] > mass[j - 1]) {
-                swap(mass[j - 1], mass[j]);
-            }
-        }
-    }
-    for (int i = 0; i < n; i++) {
-        cout << mass[i] << " ";
-    }
+vector <int> array1(vector <int> b, int n)
+{
+	int u = 0;
+	sort(b.begin(), b.end(), greater<int>());
+	if ((b.size() < 5))
+	{
+		for (int i = 0; i < n; i++)
+		{
+			if (i < 5)
+			{
+				cout << b[i] << ' ';
+			}
+			else
+			{
+				break;
+			}
+		}
+	}
+	else
+	{
+		for (int i = b.size() - 5; i < b.size(); i++)
+		{
+			cout << b[i] << ' ';
+		}
+	}
+	cout << endl;
+	return b;
+}
+int main()
+{
+	setlocale(LC_ALL, "ru");
+	int n, c;
+	c = 0;
+	cin >> n;
+	vector <int> a(n);
+	vector <int> b(0);
+	vector <int> s(0);
+	for (int i = 0; i < n; i++)
+	{
+		cin >> a[i];
+	}
+	for (int i = 0; i < a.size(); i++)
+	{
+		b.push_back(a[i]);
+		int n = b.size();
+		array1(b, n);
+
+	}
 }

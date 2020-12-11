@@ -1,0 +1,4 @@
+﻿  twenty-seventhTask.cpp
+C:\Users\Kelmory\source\repos\twenty-seventhTask\twenty-seventhTask\twenty-seventhTask.cpp(26,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kelmory\source\repos\twenty-seventhTask\twenty-seventhTask\twenty-seventhTask.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+  twenty-seventhTask.vcxproj -> C:\Users\Kelmory\source\repos\twenty-seventhTask\Debug\twenty-seventhTask.exe
