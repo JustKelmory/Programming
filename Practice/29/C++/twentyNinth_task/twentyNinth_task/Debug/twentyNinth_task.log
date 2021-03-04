@@ -1,0 +1,3 @@
+﻿  twentyNinth_task.cpp
+C:\Users\Kelmory\source\repos\twentyNinth_task\twentyNinth_task\twentyNinth_task.cpp(183,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  twentyNinth_task.vcxproj -> C:\Users\Kelmory\source\repos\twentyNinth_task\Debug\twentyNinth_task.exe
